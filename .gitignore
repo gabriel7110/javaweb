@@ -1,0 +1,18 @@
+# IntelliJ IDEA specific files
+.idea/
+*.iml
+
+# Maven and Gradle build output
+target/
+build/
+
+# Log files
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Exclude sensitive configuration files
+*.properties
+*.yml
